@@ -34,11 +34,17 @@ ec2 resources
 
    launch-template-version.rst
 
+   mirror-session.rst
+
+   mirror-target.rst
+
    nat-gateway.rst
 
    network-acl.rst
 
    peering-connection.rst
+
+   prefix-list.rst
 
    route-table.rst
 
